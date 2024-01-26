@@ -1,0 +1,4 @@
+Partner: Justin Turkiewicz
+1. My favorite programming language is Java because I like how robust its object oriented programming features are.
+2. This is the language I am most experienced with
+
